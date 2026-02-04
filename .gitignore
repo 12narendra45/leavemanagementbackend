@@ -1,6 +1,7 @@
 # Dependencies
 node_modules/
-package-lock.json
+# Backend package-lock.json (uncomment if you want to exclude it)
+# backend/package-lock.json
 
 # Environment variables
 .env
